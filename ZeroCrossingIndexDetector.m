@@ -1,8 +1,7 @@
 %RETURNS INDICES OF ZERO CROSSINGS IN THE REAL SIGNAL
 
 % Please feel free to use the code in your research and development works.
-% We would appreciate a citation to the paper below when this code
-% is helpful in obtaining results in your future publications.
+% We would appreciate a citation to the paper below when this code is helpful in obtaining results in your future publications.
 
 % Publication for citation:
 %(1) Abu Sajana R., R. Subramanian, P. Vijay Kumar, Syam Krishnan, Bharadwaj Amrutur, Jeena Sebastian, Malati Hegde, S. V. R. Anand,
