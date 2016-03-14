@@ -13,7 +13,7 @@
 
 % We suggest the user refer to the publication for implementation details.
 
-clc; clear; close;
+clear all; close all; clc
 
 % Load Real Data
 load C2v0800016.dat; A=C2v0800016(:,2);
