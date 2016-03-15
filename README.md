@@ -1,6 +1,6 @@
 # Human-Intrusion-Detect
-Source Code for the Intrusion Detection Algorithm & Analytical Modeling of PIR Sensor. `IntrusionDetectionAlgorithm.c` implements the online phasse of Intrusion Detection Algorithm .
-<img src="IntrusionDetectAlgoOnlinePhase.png" width="900">
+Source Code for the Intrusion Detection Algorithm & Analytical Modeling of PIR Sensor. `IntrusionDetectionAlgorithm.c` implements the online phasse of Intrusion Detection Algorithm (shown in Figure below).
+<img src="IntrusionDetectAlgoOnlinePhase.png" width="600">
 We suggest the user refer to the publication/masters thesis for implementation details.<br><br>
 Please feel free to use the code in your research and development works. We would appreciate a citation to the paper below when this code is helpful in obtaining results in your future publications.<br><br>
 **Publication for citation:**<br>
