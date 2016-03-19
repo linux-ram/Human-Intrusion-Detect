@@ -13,12 +13,12 @@ In 5th International Conference on Intelligent Sensors, Sensor Networks and Info
 Communication Systems and Networks (COMSNETS), 2010 Second International Conference on, Bangalore, 2010, pp. 1-2.<br><br>
 Please find my masters thesis [here](https://sites.google.com/site/sramanathan77/M.Sc.%28Engg.%29Thesis.pdf?attredirects=0) and my thesis defense slides [here](https://sites.google.com/site/sramanathan77/defense_slides.pdf?attredirects=0).
 
-A Low-Complexity Algorithm for Intrusion Detection in a PIR-Based Wireless Sensor Network
-• Investigated the problem of detecting a human intruder in the presence of  clutter arising from wind-blown vegetation in a passive infra-red (PIR) based wireless sensor network (WSN). 
+A Low-Complexity Algorithm for Intrusion Detection in a PIR-Based Wireless Sensor Network<br>
+• Investigated the problem of detecting a human intruder in the presence of  clutter arising from wind-blown vegetation in a passive infra-red (PIR) based wireless sensor network (WSN).<br>
 • Proposed a low-complexity algorithm based on a combination of Haar Transform (HT) and Support Vector Machine (SVM) based training. Extensive field testing of the algorithm was done. The algorithm exhibited a very good performance.
 
-Analytical Model For Intruder Signature           
-• Goal was to come up with a model for the intruder signature. 
-• Provided a closed-form expression for a good approximation to the intruder waveform. 
-•	Developed, for the first time in literature, a model for the PIR sensor’s signature.
+Analytical Model For Intruder Signature<br>
+• Goal was to come up with a model for the intruder signature.<br>
+• Provided a closed-form expression for a good approximation to the intruder waveform.<br>
+•	Developed, for the first time in literature, a model for the PIR sensor’s signature.<br>
 • Used this to determine how to optimally place multiple sensing nodes so as to estimate the path of the intruder in motion.
