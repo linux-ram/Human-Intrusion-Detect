@@ -22,3 +22,4 @@ Please find my masters thesis [here](https://sites.google.com/site/sramanathan77
 • Provided a closed-form expression for a good approximation to the intruder waveform.<br>
 •	Developed, for the first time in literature, a model for the PIR sensor’s signature.<br>
 • Used this to determine how to optimally place multiple sensing nodes so as to estimate the path of the intruder in motion.
+<!-- file exchange sync -->
