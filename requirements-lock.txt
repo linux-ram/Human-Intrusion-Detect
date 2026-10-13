@@ -1,0 +1,13 @@
+# Dependency lock for reproducible builds.
+# No third-party MATLAB toolboxes and no package manager.
+# Runtime: base MATLAB, any release (File Exchange compatibility claim).
+# Native check: a C compiler. The detector is IntrusionDetectionAlgorithm.c.
+#
+# Locked algorithm constants (from IntrusionDetectionAlgorithm.c):
+ANALOG_DET_WNDW=128
+BINS=7
+TEMP_WINDOW=16
+SAMPLE_NORMALISE=4
+CHANNELS=3
+GAMMA_THRESHOLD=0
+SUPRESS_THRESHOLD=0
